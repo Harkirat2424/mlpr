@@ -1,8 +1,20 @@
-![](Added Template Image to Cluster.png)
-![](Assignment of Template image to cluster.png)
-![](clusters_and_centroids.png)
+Plaksha Faculty 
+![](Plaksha_Faculty.jpg)
+
+Detected Faces
 ![](detected_faces_img.png)
-![](Dr_Shashi_Tharoor.jpg)
-![](Elbow Plot.png)
-![](Plaksha Faculty.jpg)
-![](template image.png)
+
+Elbow curve to find the Optimum Value of K
+![](Elbow_Plot.png)
+
+Clusters and Centroids
+![](clusters_and_centroids.png)
+
+Template Image
+![](template_image.png)
+
+Assigned template image to Cluster
+![](Assignment_of_Template_image_to_cluster.png)
+
+Added template image to Cluster
+![](Added_Template_Image_to_Cluster.png)
