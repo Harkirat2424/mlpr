@@ -18,3 +18,6 @@ Assigned template image to Cluster
 
 Added template image to Cluster
 ![](Added_Template_Image_to_Cluster.png)
+
+WANDB Dashboard
+![](wandb.png)
